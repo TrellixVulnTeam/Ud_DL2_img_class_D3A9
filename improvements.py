@@ -16,7 +16,10 @@ def normalize(image_data):
 # http://scikit-learn.org/dev/auto_examples/preprocessing/plot_scaling_importance.html#sphx-glr-auto-examples-preprocessing-plot-scaling-importance-py
 
 # ** The fully_conn function creates a fully connected layer with a nonlinear activation.
-# Nice work. Just for your information, a fully connected layer introduces a large number of new parameters to the model. I don't know if you've noticed, but this model takes a fairly long time to train and does not produce results even close to what a human can do. Recently, there has been a push to only have convolution layers in neural networks, and indeed the best results for this dataset have no fully connected layers. Check it out!
+# Nice work. Just for your information, a fully connected layer introduces a large number of new parameters to the model. 
+# I don't know if you've noticed, but this model takes a fairly long time to train and does not produce results even close 
+# to what a human can do. Recently, there has been a push to only have convolution layers in neural networks, and indeed 
+# the best results for this dataset have no fully connected layers. Check it out!
 
 # I'm not saying that they shouldn't be included in all cases, but it's good to be conscious of the effect that fully connected layers have on training and running times.
 
