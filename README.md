@@ -7,7 +7,23 @@ Overall great job :+1: implementing the network and tuning the hyperparameters. 
 
 - tasks: upload the changes back in FloydHub and resubmit project =) 
 
+## Re-Submission feedback: 
+Meets Specifications
 
+Good job, you nailed this assignment. I've given you some extra pointers, so have a look through my notes.
+
+Here are a few extra resources about building / tweaking Tensorflow models:
+
+Great read about building neural networks and usage of epochs / hyperparameters:
+http://cs231n.github.io/neural-networks-3/
+
+Here's an article that talks about weight initializations:
+http://cs231n.github.io/neural-networks-2/#init
+
+Great read about all the backgrounds of stddev:
+http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network/186351#186351
+
+Link with multiple (best scoring) different models + approaches + settings and all based on research: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d313
 
 
 
