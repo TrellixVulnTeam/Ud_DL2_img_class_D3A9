@@ -2,6 +2,31 @@
 ## Introduction
 In this project, you'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. You'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At then end, you'll see their predictions on the sample images.
 
+## Re-Submission
+Overall great job :+1: implementing the network and tuning the hyperparameters. Just a small change in the **print_stats** function and you will be good to go.
+
+- tasks: upload the changes back in FloydHub and resubmit project =) 
+
+## Re-Submission feedback: 
+Meets Specifications
+
+Good job, you nailed this assignment. I've given you some extra pointers, so have a look through my notes.
+
+Here are a few extra resources about building / tweaking Tensorflow models:
+
+Great read about building neural networks and usage of epochs / hyperparameters:
+http://cs231n.github.io/neural-networks-3/
+
+Here's an article that talks about weight initializations:
+http://cs231n.github.io/neural-networks-2/#init
+
+Great read about all the backgrounds of stddev:
+http://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network/186351#186351
+
+Link with multiple (best scoring) different models + approaches + settings and all based on research: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d313
+
+
+
 ## Submission
 1. Ensure you've passed all the unit tests in the notebook.
 2. Ensure you pass all points on the rubric.
