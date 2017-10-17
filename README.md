@@ -2,6 +2,11 @@
 ## Introduction
 In this project, you'll classify images from the CIFAR-10 dataset. The dataset consists of airplanes, dogs, cats, and other objects. The dataset will need to be preprocessed, then train a convolutional neural network on all the samples. You'll normalize the images, one-hot encode the labels, build a convolutional layer, max pool layer, and fully connected layer. At then end, you'll see their predictions on the sample images.
 
+## Final Results: 
+<img src="assets/predictions.JPG" width=500px>
+
+
+
 ## Re-Submission
 Overall great job :+1: implementing the network and tuning the hyperparameters. Just a small change in the **print_stats** function and you will be good to go.
 
@@ -28,6 +33,8 @@ Link with multiple (best scoring) different models + approaches + settings and a
 
 
 ## Submission
+the project was executed in Floydhub 
+
 1. Ensure you've passed all the unit tests in the notebook.
 2. Ensure you pass all points on the rubric.
 3. save the notebook as an HTML file. 
